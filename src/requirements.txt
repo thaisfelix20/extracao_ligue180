@@ -1,0 +1,8 @@
+# para verificar o encode dos arquivos
+chardet==5.1.0
+# para acessar o bigquery
+google-cloud-bigquery==3.10.0
+# para fazer o download dos arquivos
+requests==2.30.0
+# para acessar os dados dos arquivos
+pandas==2.0.1

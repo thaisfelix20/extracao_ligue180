@@ -1,0 +1,44 @@
+{
+    "fontes":[
+        {
+            "nome": "ligue180_T1_2023",
+            "tipo": "csv",
+            "url": "https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/ligue180/copy2_of_primeiro-semestre-de-2022"
+        },
+        {
+            "nome": "ligue180_S2_2022",
+            "tipo": "csv",
+            "url": "https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/ligue180/copy_of_primeiro-semestre-de-2022"
+        },
+        {
+            "nome": "ligue180_S1_2022",
+            "tipo": "csv",
+            "url": "https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/ligue180/primeiro-semestre-de-2022"
+        },
+        {
+            "nome": "ligue180_S2_2021",
+            "tipo": "csv",
+            "url": "https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/ligue180/segundo-semestre-de-2021"
+        },
+        {
+            "nome": "ligue180_S1_2021",
+            "tipo": "csv",
+            "url": "https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/ligue180/primeiro-semestre-de-2021"
+        },
+        {
+            "nome": "ligue180_S2_2020",
+            "tipo": "csv",
+            "url": "https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/ligue180/segundo-semestre-de-2020"
+        },
+        {
+            "nome": "ligue180_S1_2020",
+            "tipo": "csv",
+            "url": "https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/ligue180/primeiro-semestre-de-2020"
+        },
+        {
+            "nome": "ligue180_2019",
+            "tipo": "csv",
+            "url": "https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/ligue180/ligue-180-2019"
+        }
+    ]
+}
